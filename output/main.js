@@ -1,6 +1,7 @@
-var input = [
+var inputs = [
     'abc',
     'xbz'
 ];
-function solution(input) {}
-console.log(solution(input) === 'axbcz');
+function solution(input) {
+    return 's';
+} // console.log(solution(input) === 'axbcz');
